@@ -4,12 +4,12 @@
 
 ### Repositorio 
 
-[Main repo Stata](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo Stata](https://github.com/Gladys91/pruebamodelo2)
 
 ---
 ### Otros repositorios 
 
-[Main repo Stata](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo Stata](https://github.com/Gladys91/pruebamodelo2)
 
 [Main repo R](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
