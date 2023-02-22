@@ -1,6 +1,5 @@
 ## Deprecated: Use my new theme "Duo" instead:
 
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
 
 ---
 
